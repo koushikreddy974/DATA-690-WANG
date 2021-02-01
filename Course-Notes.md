@@ -6,7 +6,7 @@
 5. Creating Interactive python notebook files or .ipynb files.
 6. Downloading .ipynb files to our computer and uploading it in github repository for public display.
 
-# Chapter 1 
+# Chapter 1 - Overview
 ## Brief Summary
 - Installation of Python
 
